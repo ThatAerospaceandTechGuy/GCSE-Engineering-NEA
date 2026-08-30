@@ -3,7 +3,7 @@ GCSE Engineering NEA
 A GCSE Engineering Non-Exam Assessment project featuring a fully working **Toy Till**, combining 2D laser-cut mechanical design with custom Arduino code.
 
 ## Main Documentation
-* **Complete Project Documentation:** `GCSE Engineering NEA 2025-26 - Albin Prince Ashok Arockia Raj.pdf` - Contains the full design folder, initial research, manufacturing logs, CAD renders, testing, and final evaluation
+* **Complete Project Documentation:** `GCSE Engineering NEA 2025-26 - Albin Prince Ashok Arockia Doss.pdf` - Contains the full design folder, initial research, manufacturing logs, CAD renders, testing, and final evaluation
 
 ## Quick Links
 * **Project Brief:** `Brief` – Primary design requirements and problem statement
